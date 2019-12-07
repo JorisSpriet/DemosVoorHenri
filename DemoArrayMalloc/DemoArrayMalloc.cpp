@@ -19,6 +19,8 @@ int main()
 
 	std::cout << "Klaar !";
 
+	free(a);
+
 	return 0;
 
 	
